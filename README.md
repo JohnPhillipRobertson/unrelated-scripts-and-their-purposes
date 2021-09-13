@@ -6,4 +6,4 @@ The scripts so far and their purposes are as follows
 
 - scan_join: I already knew the sequence of commands I was executing in zsh to do this one task that I was doing often, so I put it in a Python script. It reads then deletes pdf's scanned to one particular USB then collates them using one of MacOS's builtins.
 
-
+- 60s_most_popular: I wrote a comment on a video with the most popular songs from the 60s and wanted to programmatically see who got the most hits. I wrote the Python bit before someone pointed out that the same could be done with `uniq`, but I left it there to show that I can implement the same functionality.

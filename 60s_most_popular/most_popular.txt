@@ -1,0 +1,77 @@
+  20 The Beatles
+  10 Elvis Presley
+   5 The Rolling Stones
+   3 Bobby Vinton
+   2 The Supremes
+   2 The Shadows
+   2 The Monkees
+   2 The Four Seasons
+   2 The Byrds
+   2 Ray Charles
+   2 Petula Clark
+   2 Cliff Richard & The Shadows
+   2 Bee Gees
+   1 Zager & Evans
+   1 Tommy Roe
+   1 Tommy James And The Shondells
+   1 Tom Jones
+   1 The Tremeloes
+   1 The Tornados
+   1 The Tokens
+   1 The Shirelles
+   1 The Rooftop Singers
+   1 The Marcels
+   1 The Mamas & The Papas
+   1 The Lovin' Spoonful
+   1 The Everly Brothers
+   1 The Drifters
+   1 The Chiffons
+   1 The Beatles & Billy Preston
+   1 The Beach Boys
+   1 The Archies
+   1 The Animals
+   1 The 5th Dimension
+   1 Sonny & Cher
+   1 Soeur Sourire
+   1 Simon & Garfunkel
+   1 Scott McKenzie
+   1 Sandie Shaw
+   1 Roy Orbison
+   1 Ricky Nelson
+   1 Procol Harum
+   1 Peter And Gordon
+   1 Percy Faith
+   1 Paul Mariat
+   1 Paul & Paula
+   1 Pat Boone
+   1 Nancy Sinatra
+   1 Mary Wells
+   1 Mary Hopkin
+   1 Marvin Gaye
+   1 Marmalade
+   1 Mark Dinning
+   1 Little Peggy March
+   1 Little Eva
+   1 Lesley Gore
+   1 Kyu Sakamoto
+   1 Johnny Preston
+   1 John Fred And His Playboy Band
+   1 Jimmy Gilmer & The Fireballs
+   1 Jim Reeves
+   1 Jeannie C. Riley
+   1 Herb Alpert
+   1 Helen Shapiro
+   1 Gerry & The Pacemakers
+   1 Frank Sinatra & Nancy Sinatra
+   1 Frank Sinatra
+   1 Four Tops
+   1 Dion
+   1 Del Shannon
+   1 Creedence Clearwater Revival
+   1 Connie Francis
+   1 Bruce Channel
+   1 Brenda Lee
+   1 Box Tops
+   1 Bobby Vee
+   1 Bobby Goldsboro
+   1 Bert Kaempfert
