@@ -1,0 +1,1 @@
+You aren't intended to run these outside of a servicenow environment, and it's not worth it to create a PDI for these. I uploaded these for the commented explanations I left.
