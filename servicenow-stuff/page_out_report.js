@@ -77,7 +77,7 @@ for (var index = 0; index < time_and_notes.length; index++) { //Now the csv is f
 
 current.description = 'Page out reporting non-billable case. See the attached report.';
 current.short_description = current.description;
-current.company = '29f6f85813c212005e7fb168d144b00c';
+current.company = ''; //name redact for public posting
 current.billable = 'false';
 current.state = 4;
 gs.log('csvData: ' + csvData);
